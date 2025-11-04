@@ -1,1 +1,1 @@
-# Soal-latihan-UKL-ke-1-yang-mudah
+Program ini akan meminta user untuk menginput berat, jarak tempuh paket serta meminta panjang, lebar , tinggi paket untuk dikalkulasikan menjadi volume dan apabila jarak tempuh lebih dari 10KM maka harganya yang berawal dari 4.250 per KG menjadi 6.000 per KG dan jika volume lebih dari 100cm3 maka akan ada biaya tambahan sebesasr 50.000
